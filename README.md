@@ -13,3 +13,6 @@ we are going to create a simple app for my project in techcrush
 - caching- redis
 - testing -jest
 - database -mysql2 and sequelize
+- Error handling
+- RBAC
+- to do push to github
